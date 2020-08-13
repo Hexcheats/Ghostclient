@@ -4,3 +4,6 @@ update 8/13/2020
 -- Added Updater
 --Force Baim
 --Fake Walk
+--scout Hitchance movement
+--awp Hitchance movement
+--auto Hitchance movement
