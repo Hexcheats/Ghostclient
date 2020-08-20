@@ -1,9 +1,6 @@
-1.1
+1.2
 
-update 8/13/2020
--- Added Updater
---Force Baim
---Fake Walk
---scout Hitchance movement
---awp Hitchance movement
---auto Hitchance movement
+update 8/20/2020
+-- FPS added to watermark
+--Custom On Shot
+
